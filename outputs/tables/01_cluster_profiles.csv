@@ -1,0 +1,5 @@
+cluster,customer_count,pct_of_customers,avg_tenure_months,avg_monthly_charge,avg_total_charge,avg_cltv,churn_rate_pct,pct_month_to_month
+4,1950,27.7,11,57.65,684.44,4971,39.3,82.8
+2,2164,30.7,17.5,61.04,1099.5,2940,35.1,74.6
+3,1919,27.2,59.2,93.19,5503.69,5099,15.8,26
+1,1010,14.3,54.5,32.43,1762.98,5099,4,14.6
